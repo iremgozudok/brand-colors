@@ -47,5 +47,4 @@ function Sidebar() {
   )
 }
 
-// github branch test
 export default Sidebar
